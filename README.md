@@ -1,0 +1,1 @@
+# Get-vSphereLicensingDetails.ps1
